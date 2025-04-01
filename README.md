@@ -1,6 +1,6 @@
-# Neurotribes
+# NeuroTribes
 
-Neurotribes on [good reads](https://www.goodreads.com/book/show/22514020-neurotribes).
+Notes on the book [Neurotribes: The Legacy of Autism and the Future of Neurodiversity](https://www.goodreads.com/book/show/22514020-neurotribes) by [Steve Silberman](https://www.goodreads.com/author/show/3892405.Steve_Silberman).
 
 ## Books mentioned
 
