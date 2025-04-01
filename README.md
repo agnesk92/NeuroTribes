@@ -1,4 +1,4 @@
-# Neurotripes
+# Neurotribes
 
 Neurotribes on [good reads](https://www.goodreads.com/book/show/22514020-neurotribes).
 
@@ -6,7 +6,7 @@ Neurotribes on [good reads](https://www.goodreads.com/book/show/22514020-neurotr
 
 - [Slan](https://www.goodreads.com/book/show/643792.Slan)
 - [Nobody Nowhere](https://www.goodreads.com/book/show/240236.Nobody_Nowhere)
-- [Somebody somewhere](https://www.goodreads.com/book/show/1030713.Somebody_Somewhere)
+- [Somebody Somewhere](https://www.goodreads.com/book/show/1030713.Somebody_Somewhere)
 - [The Hospital Ship](https://www.goodreads.com/book/show/437742.The_Hospital_Ship)
 - [Thinking In Pictures](https://www.goodreads.com/book/show/103408.Thinking_In_Pictures?ac=1&from_search=true&qid=In1xQXRAv6&rank=2)
 - [Loud Hands](https://www.goodreads.com/book/show/16328437-loud-hands)
